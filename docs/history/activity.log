@@ -1,1 +1,1 @@
-[2025-09-02 10:09:52 +02:00] fix(dijkstra): fix thermal excursion alert threshold trigger in Reefer simulation and verify mathematical invariance
+[2025-09-02 11:00:29 +02:00] feat(theme): fuel burn rate (L/100km) and cumulative carbon emission accounting with strict TypeScript type-checking
