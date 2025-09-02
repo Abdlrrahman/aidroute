@@ -1,1 +1,1 @@
-[2025-09-02 12:42:48 +02:00] feat(theme): WHO/UNICEF refrigerated reefer thermal excursion alarm (+2C to +8C) and add integration assertions
+[2025-09-02 13:33:17 +02:00] feat(coldchain): security checkpoint transit delay and checkpoint clearance queue model for local-first air-gapped readiness
