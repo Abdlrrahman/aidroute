@@ -1,1 +1,1 @@
-[2025-09-02 19:30:10 +02:00] feat(dijkstra): medical supply shelf-life degradation model under high ambient heat to ensure deterministic execution
+[2025-09-02 20:21:53 +02:00] refactor(ghibli): extract reusable domain primitives from ghibli engine for local-first air-gapped readiness
