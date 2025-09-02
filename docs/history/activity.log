@@ -1,1 +1,1 @@
-[2025-09-02 13:33:17 +02:00] feat(coldchain): security checkpoint transit delay and checkpoint clearance queue model for local-first air-gapped readiness
+[2025-09-02 14:24:21 +02:00] fix(theme): patch reefer battery level drain calculation during extended engine idling across all deployment profiles
