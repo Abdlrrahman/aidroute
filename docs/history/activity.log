@@ -1,1 +1,1 @@
-[2025-09-02 11:00:29 +02:00] feat(theme): fuel burn rate (L/100km) and cumulative carbon emission accounting with strict TypeScript type-checking
+[2025-09-02 11:51:46 +02:00] test(convoy): strengthen assertion thresholds in convoy test suite with error boundary safeguards
