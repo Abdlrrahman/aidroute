@@ -1,0 +1,18 @@
+﻿{
+  "name": "AidRoute — Tactical Humanitarian Relief Logistics",
+  "short_name": "AidRoute",
+  "description": "AidRoute — Tactical Humanitarian Relief Logistics developed by Abdlrrahman Shibani",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#d97706",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

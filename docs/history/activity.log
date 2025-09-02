@@ -1,0 +1,1 @@
+[2025-09-02 10:09:52 +02:00] fix(dijkstra): fix thermal excursion alert threshold trigger in Reefer simulation and verify mathematical invariance
