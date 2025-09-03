@@ -1,1 +1,1 @@
-[2025-09-03 17:30:26 +02:00] docs(test): document formal API contracts and validation schemas for test ensuring idempotent state updates
+[2025-09-03 18:15:05 +02:00] fix(test): fix GPX timestamp format compliance with ISO 8601 UTC standard with sub-millisecond execution latency
