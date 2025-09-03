@@ -1,1 +1,1 @@
-[2025-09-03 13:01:24 +02:00] feat(fuel): WHO/UNICEF refrigerated reefer thermal excursion alarm (+2C to +8C) and add integration assertions
+[2025-09-03 13:46:15 +02:00] fix(perf): patch reefer battery level drain calculation during extended engine idling with graceful offline fallback
