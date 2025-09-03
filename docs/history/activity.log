@@ -1,1 +1,1 @@
-[2025-09-03 15:16:04 +02:00] test(waypoints): add edge-case regression specs for waypoints inputs complying with institutional audit standards
+[2025-09-03 16:01:02 +02:00] test(waypoints): verify deterministic execution boundary for waypoints complying with institutional audit standards
