@@ -1,1 +1,1 @@
-[2025-09-03 10:03:04 +02:00] feat(dijkstra): real-time desert convoy movement and dispatch simulation lab modal with strict TypeScript type-checking
+[2025-09-03 10:47:13 +02:00] test(waypoints): add property-based invariance tests for waypoints algorithms across all deployment profiles
