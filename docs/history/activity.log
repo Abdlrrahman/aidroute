@@ -1,1 +1,1 @@
-[2025-09-03 19:44:31 +02:00] feat(checkpoints): fuel burn rate (L/100km) and cumulative carbon emission accounting
+[2025-09-03 20:29:31 +02:00] feat(fuel): tactical GPX 1.1, KML 2.2, and GeoJSON mission waypoint export ensuring idempotent state updates
