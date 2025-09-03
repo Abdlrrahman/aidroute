@@ -1,1 +1,1 @@
-[2025-09-03 14:31:00 +02:00] fix(weather): resolve checkpoint clearance time accumulation across multi-vehicle convoys ensuring idempotent state updates
+[2025-09-03 15:16:04 +02:00] test(waypoints): add edge-case regression specs for waypoints inputs complying with institutional audit standards
