@@ -1,1 +1,1 @@
-[2025-09-02 20:21:53 +02:00] refactor(ghibli): extract reusable domain primitives from ghibli engine for local-first air-gapped readiness
+[2025-09-03 10:03:04 +02:00] feat(dijkstra): real-time desert convoy movement and dispatch simulation lab modal with strict TypeScript type-checking
