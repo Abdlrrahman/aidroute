@@ -1,1 +1,1 @@
-[2025-09-04 17:40:14 +02:00] fix(convoy): fix thermal excursion alert threshold trigger in Reefer simulation complying with institutional audit standards
+[2025-09-04 18:37:13 +02:00] feat(theme): convoy separation distance controller and kinetic collision avoidance logic and verify mathematical invariance
