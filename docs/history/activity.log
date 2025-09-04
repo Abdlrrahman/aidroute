@@ -1,1 +1,1 @@
-[2025-09-04 15:46:50 +02:00] feat(convoy): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units and add integration assertions
+[2025-09-04 16:43:16 +02:00] feat(fleet): Tailwind v4 custom-variant dark theme styling and map contrast ensuring idempotent state updates
