@@ -1,1 +1,1 @@
-[2025-09-14 17:58:03 +02:00] feat(reefer): fuel burn rate (L/100km) and cumulative carbon emission accounting and verify mathematical invariance
+[2025-09-14 19:04:49 +02:00] feat(fleet): medical supply shelf-life degradation model under high ambient heat with graceful offline fallback
