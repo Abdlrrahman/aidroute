@@ -1,1 +1,1 @@
-[2025-09-14 20:10:22 +02:00] feat(router): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units with graceful offline fallback
+[2025-09-22 11:14:05 +02:00] refactor(dossier): modernize dossier component hierarchy with zero regression and verify mathematical invariance
