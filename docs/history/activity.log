@@ -1,1 +1,1 @@
-[2025-09-22 11:14:05 +02:00] refactor(dossier): modernize dossier component hierarchy with zero regression and verify mathematical invariance
+[2025-09-22 13:14:18 +02:00] feat(weather): fuel burn rate (L/100km) and cumulative carbon emission accounting ensuring idempotent state updates
