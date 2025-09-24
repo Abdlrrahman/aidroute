@@ -1,1 +1,1 @@
-[2025-09-24 14:18:49 +02:00] feat(test): real-time desert convoy movement and dispatch simulation lab modal across all deployment profiles
+[2025-09-24 15:59:55 +02:00] fix(coldchain): fix Dijkstra priority queue node update on negative edge check with sub-millisecond execution latency
