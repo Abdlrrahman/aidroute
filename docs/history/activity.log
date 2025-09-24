@@ -1,1 +1,1 @@
-[2025-09-24 10:57:28 +02:00] fix(gpx-kml): fix GPX timestamp format compliance with ISO 8601 UTC standard with zero-cloud data sovereignty
+[2025-09-24 12:37:51 +02:00] refactor(gpx-kml): refactor gpx-kml architecture for strict typing and decoupling adhering to Level-4 sovereign stack standards
