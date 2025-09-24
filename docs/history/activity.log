@@ -1,1 +1,1 @@
-[2025-09-24 15:59:55 +02:00] fix(coldchain): fix Dijkstra priority queue node update on negative edge check with sub-millisecond execution latency
+[2025-09-24 17:40:48 +02:00] fix(fuel): fix GPX timestamp format compliance with ISO 8601 UTC standard adhering to Level-4 sovereign stack standards
