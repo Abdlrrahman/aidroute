@@ -1,1 +1,1 @@
-[2025-10-07 18:05:03 +02:00] feat(telemetry): multi-depot vehicle routing solver with payload weight balancing and verify mathematical invariance
+[2025-10-13 10:13:38 +02:00] feat(fleet): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units with optimized memory allocation
