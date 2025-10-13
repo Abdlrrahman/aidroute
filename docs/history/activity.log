@@ -1,1 +1,1 @@
-[2025-10-13 13:34:58 +02:00] perf(reefer): streamline GeoJSON waypoint serialization for low-bandwidth devices
+[2025-10-13 14:41:45 +02:00] test(gpx-kml): verify deterministic execution boundary for gpx-kml complying with institutional audit standards
