@@ -1,1 +1,1 @@
-[2025-10-13 15:48:32 +02:00] fix(waypoints): resolve waypoint coordinate inversion in GeoJSON polygon export with error boundary safeguards
+[2025-10-13 16:55:18 +02:00] feat(dijkstra): convoy separation distance controller and kinetic collision avoidance logic complying with institutional audit standards
