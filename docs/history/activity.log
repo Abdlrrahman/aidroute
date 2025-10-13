@@ -1,1 +1,1 @@
-[2025-10-13 18:02:29 +02:00] feat(dossier): convoy separation distance controller and kinetic collision avoidance logic with strict TypeScript type-checking
+[2025-10-13 19:08:58 +02:00] fix(theme): ensure route map line contrasts sharply against both dark and light basemaps ensuring idempotent state updates
