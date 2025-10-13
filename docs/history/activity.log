@@ -1,1 +1,1 @@
-[2025-10-13 14:41:45 +02:00] test(gpx-kml): verify deterministic execution boundary for gpx-kml complying with institutional audit standards
+[2025-10-13 15:48:32 +02:00] fix(waypoints): resolve waypoint coordinate inversion in GeoJSON polygon export with error boundary safeguards
