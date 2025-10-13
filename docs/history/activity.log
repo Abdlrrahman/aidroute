@@ -1,1 +1,1 @@
-[2025-10-13 19:08:58 +02:00] fix(theme): ensure route map line contrasts sharply against both dark and light basemaps ensuring idempotent state updates
+[2025-10-13 20:15:57 +02:00] feat(telemetry): tactical GPX 1.1, KML 2.2, and GeoJSON mission waypoint export for local-first air-gapped readiness
