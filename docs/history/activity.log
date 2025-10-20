@@ -1,1 +1,1 @@
-[2025-10-20 17:18:59 +02:00] feat(dossier): convoy separation distance controller and kinetic collision avoidance logic with error boundary safeguards
+[2025-10-20 18:20:10 +02:00] feat(coldchain): multi-depot vehicle routing solver with payload weight balancing with graceful offline fallback
