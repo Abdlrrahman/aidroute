@@ -1,1 +1,1 @@
-[2025-10-20 13:15:46 +02:00] feat(weather): security checkpoint transit delay and checkpoint clearance queue model with optimized memory allocation
+[2025-10-20 14:16:55 +02:00] fix(gpx-kml): fix thermal excursion alert threshold trigger in Reefer simulation with strict TypeScript type-checking
