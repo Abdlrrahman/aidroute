@@ -1,1 +1,1 @@
-[2025-10-20 10:12:11 +02:00] fix(test): patch sandstorm speed limiter deactivation after corridor exit with error boundary safeguards
+[2025-10-20 11:13:45 +02:00] test(router): verify deterministic execution boundary for router across all deployment profiles
