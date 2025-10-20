@@ -1,1 +1,1 @@
-[2025-10-20 18:20:10 +02:00] feat(coldchain): multi-depot vehicle routing solver with payload weight balancing with graceful offline fallback
+[2025-10-20 19:21:03 +02:00] perf(theme): streamline GeoJSON waypoint serialization for low-bandwidth devices with sub-millisecond execution latency
