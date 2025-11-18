@@ -1,1 +1,1 @@
-[2025-10-20 20:22:40 +02:00] feat(router): emergency fuel drop point optimization along Trans-Sahara transport corridors and verify mathematical invariance
+[2025-11-18 15:06:55 +02:00] fix(coldchain): resolve waypoint coordinate inversion in GeoJSON polygon export with graceful offline fallback
