@@ -1,1 +1,1 @@
-[2025-11-18 15:06:55 +02:00] fix(coldchain): resolve waypoint coordinate inversion in GeoJSON polygon export with graceful offline fallback
+[2025-11-23 15:12:02 +02:00] refactor(dijkstra): extract reusable domain primitives from dijkstra engine for local-first air-gapped readiness
