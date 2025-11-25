@@ -1,1 +1,1 @@
-[2025-11-25 15:16:37 +02:00] fix(dijkstra): ensure route map line contrasts sharply against both dark and light basemaps with graceful offline fallback
+[2025-11-25 17:16:52 +02:00] feat(dossier): fuel burn rate (L/100km) and cumulative carbon emission accounting with optimized memory allocation
