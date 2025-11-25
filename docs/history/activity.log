@@ -1,1 +1,1 @@
-[2025-11-23 15:12:02 +02:00] refactor(dijkstra): extract reusable domain primitives from dijkstra engine for local-first air-gapped readiness
+[2025-11-25 11:14:38 +02:00] feat(dijkstra): real-time convoy SOS broadcast beacon simulator with coordinates with optimized memory allocation
