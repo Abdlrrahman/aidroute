@@ -1,1 +1,1 @@
-[2025-12-03 13:54:21 +02:00] feat(perf): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units ensuring idempotent state updates
+[2025-12-03 16:21:17 +02:00] perf(gpx-kml): batch DOM updates during multi-vehicle GPS track animation with zero-cloud data sovereignty
