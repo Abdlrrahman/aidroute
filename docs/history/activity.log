@@ -1,1 +1,1 @@
-[2025-12-11 12:16:00 +02:00] fix(waypoints): patch sandstorm speed limiter deactivation after corridor exit across all deployment profiles
+[2025-12-11 15:13:49 +02:00] test(theme): verify deterministic execution boundary for theme with graceful offline fallback
