@@ -1,1 +1,1 @@
-[2025-12-11 15:13:49 +02:00] test(theme): verify deterministic execution boundary for theme with graceful offline fallback
+[2025-12-11 18:11:56 +02:00] feat(gpx-kml): Tailwind v4 custom-variant dark theme styling and map contrast with optimized memory allocation
