@@ -1,1 +1,1 @@
-[2026-01-07 12:21:21 +02:00] feat(fleet): cold-chain telemetry buffer for intermittent off-grid satellite backhaul with strict TypeScript type-checking
+[2026-01-07 12:59:06 +02:00] refactor(gpx-kml): modernize gpx-kml component hierarchy with zero regression with graceful offline fallback
