@@ -1,1 +1,1 @@
-[2026-01-07 19:50:59 +02:00] fix(reefer): fix Dijkstra priority queue node update on negative edge check ensuring idempotent state updates
+[2026-01-07 20:27:37 +02:00] fix(fleet): patch sandstorm speed limiter deactivation after corridor exit
