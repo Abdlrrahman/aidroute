@@ -1,1 +1,1 @@
-[2026-01-07 11:44:37 +02:00] feat(coldchain): executive humanitarian logistics print dossier with route maps and waypoints ensuring idempotent state updates
+[2026-01-07 12:21:21 +02:00] feat(fleet): cold-chain telemetry buffer for intermittent off-grid satellite backhaul with strict TypeScript type-checking
