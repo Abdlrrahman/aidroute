@@ -1,1 +1,1 @@
-[2026-01-07 16:43:01 +02:00] docs(convoy): enrich inline documentation and algorithm proofs for convoy and add integration assertions
+[2026-01-07 17:21:04 +02:00] fix(test): fix GPX timestamp format compliance with ISO 8601 UTC standard with error boundary safeguards
