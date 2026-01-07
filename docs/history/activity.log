@@ -1,1 +1,1 @@
-[2026-01-07 12:59:06 +02:00] refactor(gpx-kml): modernize gpx-kml component hierarchy with zero regression with graceful offline fallback
+[2026-01-07 13:36:33 +02:00] fix(router): resolve waypoint coordinate inversion in GeoJSON polygon export with graceful offline fallback
