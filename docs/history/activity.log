@@ -1,1 +1,1 @@
-[2026-01-07 09:51:50 +02:00] feat(router): real-time desert convoy movement and dispatch simulation lab modal with sub-millisecond execution latency
+[2026-01-07 10:29:48 +02:00] fix(checkpoints): correct CO2 conversion factor to 2.68 kg/L for heavy diesel transports with graceful offline fallback
