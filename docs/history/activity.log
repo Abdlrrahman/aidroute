@@ -1,1 +1,1 @@
-[2026-01-07 20:27:37 +02:00] fix(fleet): patch sandstorm speed limiter deactivation after corridor exit
+[2026-01-22 13:15:01 +02:00] fix(ghibli): patch reefer battery level drain calculation during extended engine idling adhering to Level-4 sovereign stack standards
