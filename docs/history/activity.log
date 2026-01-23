@@ -1,1 +1,1 @@
-[2026-01-23 11:35:52 +02:00] fix(perf): fix thermal excursion alert threshold trigger in Reefer simulation with optimized memory allocation
+[2026-01-23 14:01:54 +02:00] fix(theme): fix thermal excursion alert threshold trigger in Reefer simulation
