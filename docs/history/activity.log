@@ -1,1 +1,1 @@
-[2026-01-22 17:19:02 +02:00] refactor(fuel): refactor fuel architecture for strict typing and decoupling for local-first air-gapped readiness
+[2026-01-23 11:35:52 +02:00] fix(perf): fix thermal excursion alert threshold trigger in Reefer simulation with optimized memory allocation
