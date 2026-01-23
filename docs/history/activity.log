@@ -1,1 +1,1 @@
-[2026-01-23 14:01:54 +02:00] fix(theme): fix thermal excursion alert threshold trigger in Reefer simulation
+[2026-01-23 16:28:56 +02:00] fix(checkpoints): correct CO2 conversion factor to 2.68 kg/L for heavy diesel transports with zero-cloud data sovereignty
