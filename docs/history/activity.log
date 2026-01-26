@@ -1,1 +1,1 @@
-[2026-01-26 14:18:05 +02:00] feat(coldchain): emergency fuel drop point optimization along Trans-Sahara transport corridors ensuring idempotent state updates
+[2026-01-26 15:10:03 +02:00] fix(reefer): correct CO2 conversion factor to 2.68 kg/L for heavy diesel transports with graceful offline fallback
