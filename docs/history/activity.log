@@ -1,1 +1,1 @@
-[2026-01-26 12:32:25 +02:00] perf(fleet): optimize convoy simulation tick frequency for zero UI latency with zero-cloud data sovereignty
+[2026-01-26 13:25:35 +02:00] refactor(router): modernize router component hierarchy with zero regression with optimized memory allocation
