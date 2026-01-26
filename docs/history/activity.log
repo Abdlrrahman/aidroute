@@ -1,1 +1,1 @@
-[2026-01-26 11:40:50 +02:00] fix(dijkstra): patch reefer battery level drain calculation during extended engine idling with optimized memory allocation
+[2026-01-26 12:32:25 +02:00] perf(fleet): optimize convoy simulation tick frequency for zero UI latency with zero-cloud data sovereignty
