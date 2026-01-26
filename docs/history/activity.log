@@ -1,1 +1,1 @@
-[2026-01-23 18:54:49 +02:00] test(coldchain): add edge-case regression specs for coldchain inputs with graceful offline fallback
+[2026-01-26 09:55:51 +02:00] feat(fleet): real-time convoy SOS broadcast beacon simulator with coordinates with graceful offline fallback
