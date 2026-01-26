@@ -1,1 +1,1 @@
-[2026-01-26 19:31:42 +02:00] feat(weather): Ghibli sandstorm speed-cap and visibility degradation injection model to ensure deterministic execution
+[2026-01-26 20:23:57 +02:00] fix(reefer): resolve waypoint coordinate inversion in GeoJSON polygon export complying with institutional audit standards
