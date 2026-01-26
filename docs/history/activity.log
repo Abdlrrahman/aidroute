@@ -1,1 +1,1 @@
-[2026-01-26 10:47:41 +02:00] feat(ghibli): WHO/UNICEF refrigerated reefer thermal excursion alarm (+2C to +8C) for local-first air-gapped readiness
+[2026-01-26 11:40:50 +02:00] fix(dijkstra): patch reefer battery level drain calculation during extended engine idling with optimized memory allocation
