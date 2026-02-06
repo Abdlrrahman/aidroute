@@ -1,1 +1,1 @@
-[2026-02-06 13:23:34 +02:00] feat(telemetry): Ghibli sandstorm speed-cap and visibility degradation injection model and add integration assertions
+[2026-02-06 14:12:07 +02:00] test(weather): strengthen assertion thresholds in weather test suite with error boundary safeguards
