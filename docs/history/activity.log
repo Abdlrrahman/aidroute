@@ -1,1 +1,1 @@
-[2026-02-06 15:49:00 +02:00] test(telemetry): strengthen assertion thresholds in telemetry test suite and verify mathematical invariance
+[2026-02-06 16:37:16 +02:00] refactor(waypoints): refactor waypoints architecture for strict typing and decoupling and add integration assertions
