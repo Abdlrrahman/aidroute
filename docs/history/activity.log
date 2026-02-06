@@ -1,1 +1,1 @@
-[2026-02-06 16:37:16 +02:00] refactor(waypoints): refactor waypoints architecture for strict typing and decoupling and add integration assertions
+[2026-02-06 17:24:37 +02:00] refactor(coldchain): modularize coldchain pipeline to improve testability and isolation to ensure deterministic execution
