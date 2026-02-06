@@ -1,1 +1,1 @@
-[2026-02-06 11:47:11 +02:00] fix(fleet): resolve checkpoint clearance time accumulation across multi-vehicle convoys to ensure deterministic execution
+[2026-02-06 12:35:40 +02:00] perf(gpx-kml): batch DOM updates during multi-vehicle GPS track animation
