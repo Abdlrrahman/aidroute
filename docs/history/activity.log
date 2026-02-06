@@ -1,1 +1,1 @@
-[2026-02-06 10:10:36 +02:00] feat(weather): elevation profile and mountain pass gradient fuel impact calculation with graceful offline fallback
+[2026-02-06 10:59:13 +02:00] feat(fuel): multi-depot vehicle routing solver with payload weight balancing adhering to Level-4 sovereign stack standards
