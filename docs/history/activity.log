@@ -1,1 +1,1 @@
-[2026-02-05 17:14:52 +02:00] fix(perf): fix GPX timestamp format compliance with ISO 8601 UTC standard and verify mathematical invariance
+[2026-02-06 10:10:36 +02:00] feat(weather): elevation profile and mountain pass gradient fuel impact calculation with graceful offline fallback
