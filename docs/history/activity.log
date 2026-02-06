@@ -1,1 +1,1 @@
-[2026-02-06 17:24:37 +02:00] refactor(coldchain): modularize coldchain pipeline to improve testability and isolation to ensure deterministic execution
+[2026-02-06 18:13:30 +02:00] perf(checkpoints): optimize convoy simulation tick frequency for zero UI latency with error boundary safeguards
