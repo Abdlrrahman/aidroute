@@ -1,1 +1,1 @@
-[2026-03-07 15:06:37 +02:00] test(waypoints): add edge-case regression specs for waypoints inputs ensuring idempotent state updates
+[2026-03-20 11:36:11 +02:00] feat(fleet): Ghibli sandstorm speed-cap and visibility degradation injection model and add integration assertions
