@@ -1,1 +1,1 @@
-[2026-03-20 11:36:11 +02:00] feat(fleet): Ghibli sandstorm speed-cap and visibility degradation injection model and add integration assertions
+[2026-03-20 13:59:37 +02:00] feat(dossier): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units with strict TypeScript type-checking
