@@ -1,1 +1,1 @@
-[2026-03-27 10:14:16 +02:00] feat(router): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units with zero-cloud data sovereignty
+[2026-03-27 10:48:34 +02:00] perf(perf): precompute geographic Haversine distances between major Libyan waypoints and add integration assertions
