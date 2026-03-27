@@ -1,1 +1,1 @@
-[2026-03-27 16:29:12 +02:00] test(theme): add property-based invariance tests for theme algorithms with graceful offline fallback
+[2026-03-27 17:03:40 +02:00] feat(weather): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units and verify mathematical invariance
