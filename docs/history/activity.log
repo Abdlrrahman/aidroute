@@ -1,1 +1,1 @@
-[2026-03-27 17:03:40 +02:00] feat(weather): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units and verify mathematical invariance
+[2026-03-27 17:37:32 +02:00] fix(fleet): correct CO2 conversion factor to 2.68 kg/L for heavy diesel transports and add integration assertions
