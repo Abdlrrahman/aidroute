@@ -1,1 +1,1 @@
-[2026-03-27 14:12:58 +02:00] feat(waypoints): executive humanitarian logistics print dossier with route maps and waypoints with zero-cloud data sovereignty
+[2026-03-27 14:47:13 +02:00] fix(dossier): correct gradient elevation penalty formula on steep mountain tracks to ensure deterministic execution
