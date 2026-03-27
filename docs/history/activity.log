@@ -1,1 +1,1 @@
-[2026-03-27 17:37:32 +02:00] fix(fleet): correct CO2 conversion factor to 2.68 kg/L for heavy diesel transports and add integration assertions
+[2026-03-27 18:11:15 +02:00] fix(perf): ensure route map line contrasts sharply against both dark and light basemaps complying with institutional audit standards
