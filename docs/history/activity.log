@@ -1,1 +1,1 @@
-[2026-03-27 10:48:34 +02:00] perf(perf): precompute geographic Haversine distances between major Libyan waypoints and add integration assertions
+[2026-03-27 11:22:21 +02:00] fix(weather): ensure route map line contrasts sharply against both dark and light basemaps and verify mathematical invariance
