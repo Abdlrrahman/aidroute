@@ -1,1 +1,1 @@
-[2026-03-30 14:33:18 +02:00] feat(convoy): cold-chain telemetry buffer for intermittent off-grid satellite backhaul and verify mathematical invariance
+[2026-03-30 16:15:02 +02:00] feat(dossier): tactical GPX 1.1, KML 2.2, and GeoJSON mission waypoint export ensuring idempotent state updates
