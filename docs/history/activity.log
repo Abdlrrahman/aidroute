@@ -1,1 +1,1 @@
-[2026-03-30 16:15:02 +02:00] feat(dossier): tactical GPX 1.1, KML 2.2, and GeoJSON mission waypoint export ensuring idempotent state updates
+[2026-03-30 17:56:38 +02:00] feat(waypoints): tactical GPX 1.1, KML 2.2, and GeoJSON mission waypoint export to ensure deterministic execution
