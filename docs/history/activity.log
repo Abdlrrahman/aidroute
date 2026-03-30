@@ -1,1 +1,1 @@
-[2026-03-30 17:56:38 +02:00] feat(waypoints): tactical GPX 1.1, KML 2.2, and GeoJSON mission waypoint export to ensure deterministic execution
+[2026-03-30 19:37:57 +02:00] fix(telemetry): resolve waypoint coordinate inversion in GeoJSON polygon export with zero-cloud data sovereignty
