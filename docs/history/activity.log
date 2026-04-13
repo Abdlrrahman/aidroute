@@ -1,1 +1,1 @@
-[2026-03-30 19:37:57 +02:00] fix(telemetry): resolve waypoint coordinate inversion in GeoJSON polygon export with zero-cloud data sovereignty
+[2026-04-13 10:46:12 +02:00] test(test): verify deterministic execution boundary for test with error boundary safeguards
