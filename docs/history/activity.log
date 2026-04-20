@@ -1,1 +1,1 @@
-[2026-04-20 16:11:51 +02:00] feat(gpx-kml): multi-depot vehicle routing solver with payload weight balancing across all deployment profiles
+[2026-04-20 17:53:22 +02:00] perf(gpx-kml): optimize convoy simulation tick frequency for zero UI latency with sub-millisecond execution latency
