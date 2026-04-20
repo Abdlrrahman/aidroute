@@ -1,1 +1,1 @@
-[2026-04-20 17:53:22 +02:00] perf(gpx-kml): optimize convoy simulation tick frequency for zero UI latency with sub-millisecond execution latency
+[2026-04-20 19:35:42 +02:00] feat(fleet): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units and verify mathematical invariance
