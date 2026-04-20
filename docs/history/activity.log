@@ -1,1 +1,1 @@
-[2026-04-20 14:29:40 +02:00] feat(fleet): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units for local-first air-gapped readiness
+[2026-04-20 16:11:51 +02:00] feat(gpx-kml): multi-depot vehicle routing solver with payload weight balancing across all deployment profiles
