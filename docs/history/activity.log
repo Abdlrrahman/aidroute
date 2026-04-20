@@ -1,1 +1,1 @@
-[2026-04-20 12:47:28 +02:00] refactor(fuel): extract reusable domain primitives from fuel engine with strict TypeScript type-checking
+[2026-04-20 14:29:40 +02:00] feat(fleet): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units for local-first air-gapped readiness
