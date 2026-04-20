@@ -1,1 +1,1 @@
-[2026-04-20 11:06:16 +02:00] feat(telemetry): cold-chain telemetry buffer for intermittent off-grid satellite backhaul complying with institutional audit standards
+[2026-04-20 12:47:28 +02:00] refactor(fuel): extract reusable domain primitives from fuel engine with strict TypeScript type-checking
