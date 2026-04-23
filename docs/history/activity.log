@@ -1,1 +1,1 @@
-[2026-04-23 09:52:35 +02:00] fix(ghibli): fix thermal excursion alert threshold trigger in Reefer simulation with sub-millisecond execution latency
+[2026-04-23 10:32:23 +02:00] feat(telemetry): convoy separation distance controller and kinetic collision avoidance logic complying with institutional audit standards
