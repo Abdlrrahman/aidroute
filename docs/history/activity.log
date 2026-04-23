@@ -1,1 +1,1 @@
-[2026-04-23 13:51:42 +02:00] feat(telemetry): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units with sub-millisecond execution latency
+[2026-04-23 14:32:03 +02:00] perf(waypoints): implement Fibonacci min-heap for 10x faster corridor graph solving
