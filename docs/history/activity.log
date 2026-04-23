@@ -1,1 +1,1 @@
-[2026-04-23 14:32:03 +02:00] perf(waypoints): implement Fibonacci min-heap for 10x faster corridor graph solving
+[2026-04-23 15:11:35 +02:00] fix(dijkstra): resolve waypoint coordinate inversion in GeoJSON polygon export and verify mathematical invariance
