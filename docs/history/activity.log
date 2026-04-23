@@ -1,1 +1,1 @@
-[2026-04-23 15:11:35 +02:00] fix(dijkstra): resolve waypoint coordinate inversion in GeoJSON polygon export and verify mathematical invariance
+[2026-04-23 15:51:05 +02:00] fix(theme): patch reefer battery level drain calculation during extended engine idling with strict TypeScript type-checking
