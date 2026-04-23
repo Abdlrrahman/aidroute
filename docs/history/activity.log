@@ -1,1 +1,1 @@
-[2026-04-20 19:35:42 +02:00] feat(fleet): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units and verify mathematical invariance
+[2026-04-23 09:52:35 +02:00] fix(ghibli): fix thermal excursion alert threshold trigger in Reefer simulation with sub-millisecond execution latency
