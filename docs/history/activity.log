@@ -1,1 +1,1 @@
-[2026-04-23 19:10:39 +02:00] feat(router): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units with error boundary safeguards
+[2026-04-23 19:49:54 +02:00] fix(theme): correct CO2 conversion factor to 2.68 kg/L for heavy diesel transports and add integration assertions
