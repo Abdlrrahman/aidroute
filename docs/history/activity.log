@@ -1,1 +1,1 @@
-[2026-04-23 12:31:46 +02:00] fix(telemetry): fix Dijkstra priority queue node update on negative edge check with error boundary safeguards
+[2026-04-23 13:11:32 +02:00] feat(perf): elevation profile and mountain pass gradient fuel impact calculation to ensure deterministic execution
