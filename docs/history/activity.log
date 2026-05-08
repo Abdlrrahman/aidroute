@@ -1,1 +1,1 @@
-[2026-05-08 14:30:03 +02:00] feat(ghibli): Tailwind v4 custom-variant dark theme styling and map contrast with strict TypeScript type-checking
+[2026-05-08 15:20:24 +02:00] perf(waypoints): streamline GeoJSON waypoint serialization for low-bandwidth devices and verify mathematical invariance
