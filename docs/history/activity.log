@@ -1,1 +1,1 @@
-[2026-05-08 13:39:26 +02:00] fix(weather): patch sandstorm speed limiter deactivation after corridor exit and verify mathematical invariance
+[2026-05-08 14:30:03 +02:00] feat(ghibli): Tailwind v4 custom-variant dark theme styling and map contrast with strict TypeScript type-checking
