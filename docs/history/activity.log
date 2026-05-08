@@ -1,1 +1,1 @@
-[2026-05-03 15:18:15 +02:00] feat(waypoints): multi-depot vehicle routing solver with payload weight balancing complying with institutional audit standards
+[2026-05-08 10:15:47 +02:00] fix(perf): correct CO2 conversion factor to 2.68 kg/L for heavy diesel transports with error boundary safeguards
