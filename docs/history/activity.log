@@ -1,1 +1,1 @@
-[2026-05-08 17:52:56 +02:00] refactor(convoy): streamline internal state transitions in convoy controller with sub-millisecond execution latency
+[2026-05-08 18:44:14 +02:00] test(dijkstra): add property-based invariance tests for dijkstra algorithms and verify mathematical invariance
