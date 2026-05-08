@@ -1,1 +1,1 @@
-[2026-05-08 12:48:36 +02:00] feat(theme): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units with error boundary safeguards
+[2026-05-08 13:39:26 +02:00] fix(weather): patch sandstorm speed limiter deactivation after corridor exit and verify mathematical invariance
