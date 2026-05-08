@@ -1,1 +1,1 @@
-[2026-05-08 15:20:24 +02:00] perf(waypoints): streamline GeoJSON waypoint serialization for low-bandwidth devices and verify mathematical invariance
+[2026-05-08 16:11:22 +02:00] perf(convoy): implement Fibonacci min-heap for 10x faster corridor graph solving ensuring idempotent state updates
