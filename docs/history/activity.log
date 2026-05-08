@@ -1,1 +1,1 @@
-[2026-05-08 16:11:22 +02:00] perf(convoy): implement Fibonacci min-heap for 10x faster corridor graph solving ensuring idempotent state updates
+[2026-05-08 17:02:32 +02:00] perf(fleet): memoize road segment risk scores across repeated routing queries complying with institutional audit standards
