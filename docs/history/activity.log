@@ -1,1 +1,1 @@
-[2026-05-08 10:15:47 +02:00] fix(perf): correct CO2 conversion factor to 2.68 kg/L for heavy diesel transports with error boundary safeguards
+[2026-05-08 11:06:49 +02:00] test(gpx-kml): add edge-case regression specs for gpx-kml inputs with strict TypeScript type-checking
