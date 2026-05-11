@@ -1,1 +1,1 @@
-[2026-05-11 16:31:50 +02:00] feat(fleet): multi-depot vehicle routing solver with payload weight balancing
+[2026-05-11 18:58:27 +02:00] test(router): add edge-case regression specs for router inputs for local-first air-gapped readiness
