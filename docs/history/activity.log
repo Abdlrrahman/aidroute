@@ -1,1 +1,1 @@
-[2026-05-11 14:05:06 +02:00] test(coldchain): strengthen assertion thresholds in coldchain test suite across all deployment profiles
+[2026-05-11 16:31:50 +02:00] feat(fleet): multi-depot vehicle routing solver with payload weight balancing
