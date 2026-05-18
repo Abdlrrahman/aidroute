@@ -1,1 +1,1 @@
-[2026-05-18 14:29:01 +02:00] feat(weather): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units with sub-millisecond execution latency
+[2026-05-18 16:12:53 +02:00] refactor(coldchain): modernize coldchain component hierarchy with zero regression with error boundary safeguards
