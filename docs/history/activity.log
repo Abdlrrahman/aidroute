@@ -1,1 +1,1 @@
-[2026-05-22 16:38:57 +02:00] docs(dossier): add deployment runbook and configuration guide for dossier across all deployment profiles
+[2026-05-22 18:09:05 +02:00] test(gpx-kml): add property-based invariance tests for gpx-kml algorithms to ensure deterministic execution
