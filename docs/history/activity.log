@@ -1,1 +1,1 @@
-[2026-05-22 18:09:05 +02:00] test(gpx-kml): add property-based invariance tests for gpx-kml algorithms to ensure deterministic execution
+[2026-05-22 19:38:55 +02:00] feat(waypoints): Ghibli sandstorm speed-cap and visibility degradation injection model to ensure deterministic execution
