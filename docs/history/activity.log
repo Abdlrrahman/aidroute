@@ -1,1 +1,1 @@
-[2026-05-22 12:07:39 +02:00] fix(coldchain): ensure route map line contrasts sharply against both dark and light basemaps with error boundary safeguards
+[2026-05-22 13:38:27 +02:00] feat(router): medical supply shelf-life degradation model under high ambient heat with graceful offline fallback
