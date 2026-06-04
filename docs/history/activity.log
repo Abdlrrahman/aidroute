@@ -1,1 +1,1 @@
-[2026-06-04 15:53:39 +02:00] perf(perf): optimize convoy simulation tick frequency for zero UI latency and add integration assertions
+[2026-06-04 17:12:23 +02:00] test(dijkstra): add edge-case regression specs for dijkstra inputs with zero-cloud data sovereignty
