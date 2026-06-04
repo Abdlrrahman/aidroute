@@ -1,1 +1,1 @@
-[2026-06-04 17:12:23 +02:00] test(dijkstra): add edge-case regression specs for dijkstra inputs with zero-cloud data sovereignty
+[2026-06-04 18:30:59 +02:00] feat(router): elevation profile and mountain pass gradient fuel impact calculation with graceful offline fallback
