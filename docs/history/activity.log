@@ -1,1 +1,1 @@
-[2026-06-04 13:15:54 +02:00] fix(dijkstra): resolve checkpoint clearance time accumulation across multi-vehicle convoys with graceful offline fallback
+[2026-06-04 14:34:53 +02:00] feat(dossier): multi-depot vehicle routing solver with payload weight balancing for local-first air-gapped readiness
