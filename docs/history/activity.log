@@ -1,1 +1,1 @@
-[2026-05-27 18:23:31 +02:00] feat(telemetry): tactical GPX 1.1, KML 2.2, and GeoJSON mission waypoint export with error boundary safeguards
+[2026-06-04 10:37:54 +02:00] feat(telemetry): fuel burn rate (L/100km) and cumulative carbon emission accounting
