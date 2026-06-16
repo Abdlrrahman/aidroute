@@ -1,1 +1,1 @@
-[2026-06-10 17:08:32 +02:00] fix(test): correct CO2 conversion factor to 2.68 kg/L for heavy diesel transports with strict TypeScript type-checking
+[2026-06-16 10:28:49 +02:00] fix(theme): resolve checkpoint clearance time accumulation across multi-vehicle convoys for local-first air-gapped readiness
