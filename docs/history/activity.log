@@ -1,1 +1,1 @@
-[2026-06-16 18:25:33 +02:00] feat(fleet): security checkpoint transit delay and checkpoint clearance queue model with strict TypeScript type-checking
+[2026-06-16 19:45:16 +02:00] fix(waypoints): patch reefer battery level drain calculation during extended engine idling with error boundary safeguards
