@@ -1,1 +1,1 @@
-[2026-06-16 17:06:25 +02:00] feat(telemetry): fuel burn rate (L/100km) and cumulative carbon emission accounting complying with institutional audit standards
+[2026-06-16 18:25:33 +02:00] feat(fleet): security checkpoint transit delay and checkpoint clearance queue model with strict TypeScript type-checking
