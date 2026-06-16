@@ -1,1 +1,1 @@
-[2026-06-16 13:08:05 +02:00] perf(telemetry): streamline GeoJSON waypoint serialization for low-bandwidth devices
+[2026-06-16 14:27:14 +02:00] perf(perf): memoize road segment risk scores across repeated routing queries across all deployment profiles
