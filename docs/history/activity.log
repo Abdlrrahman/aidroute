@@ -1,1 +1,1 @@
-[2026-06-16 19:45:16 +02:00] fix(waypoints): patch reefer battery level drain calculation during extended engine idling with error boundary safeguards
+[2026-06-24 15:27:44 +02:00] feat(weather): fuel burn rate (L/100km) and cumulative carbon emission accounting with error boundary safeguards
