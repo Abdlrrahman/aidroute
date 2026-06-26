@@ -1,1 +1,1 @@
-[2026-06-26 10:13:23 +02:00] refactor(reefer): modernize reefer component hierarchy with zero regression ensuring idempotent state updates
+[2026-06-26 11:19:19 +02:00] feat(router): multi-objective Dijkstra shortest-path engine with risk penalty weights and add integration assertions
