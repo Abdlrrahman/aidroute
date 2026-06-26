@@ -1,1 +1,1 @@
-[2026-06-24 15:27:44 +02:00] feat(weather): fuel burn rate (L/100km) and cumulative carbon emission accounting with error boundary safeguards
+[2026-06-26 10:13:23 +02:00] refactor(reefer): modernize reefer component hierarchy with zero regression ensuring idempotent state updates
