@@ -1,1 +1,1 @@
-[2026-06-26 14:39:40 +02:00] test(fuel): verify deterministic execution boundary for fuel for local-first air-gapped readiness
+[2026-06-26 15:45:27 +02:00] fix(weather): patch reefer battery level drain calculation during extended engine idling with sub-millisecond execution latency
