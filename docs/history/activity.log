@@ -1,1 +1,1 @@
-[2026-06-29 13:13:26 +02:00] feat(perf): security checkpoint transit delay and checkpoint clearance queue model across all deployment profiles
+[2026-06-29 17:11:54 +02:00] refactor(telemetry): refactor telemetry architecture for strict typing and decoupling ensuring idempotent state updates
