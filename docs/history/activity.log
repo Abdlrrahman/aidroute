@@ -1,1 +1,1 @@
-[2026-06-30 11:26:06 +02:00] test(weather): add edge-case regression specs for weather inputs
+[2026-06-30 13:51:58 +02:00] fix(reefer): fix thermal excursion alert threshold trigger in Reefer simulation ensuring idempotent state updates
