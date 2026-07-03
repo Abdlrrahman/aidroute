@@ -1,1 +1,1 @@
-[2026-07-03 16:21:14 +02:00] refactor(fuel): modularize fuel pipeline to improve testability and isolation
+[2026-07-03 18:42:58 +02:00] fix(ghibli): resolve checkpoint clearance time accumulation across multi-vehicle convoys adhering to Level-4 sovereign stack standards
