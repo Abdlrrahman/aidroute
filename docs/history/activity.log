@@ -1,1 +1,1 @@
-[2026-07-07 13:12:53 +02:00] fix(dijkstra): correct gradient elevation penalty formula on steep mountain tracks with error boundary safeguards
+[2026-07-07 15:14:03 +02:00] perf(dijkstra): optimize convoy simulation tick frequency for zero UI latency complying with institutional audit standards
