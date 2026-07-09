@@ -1,1 +1,1 @@
-[2026-07-09 15:15:01 +02:00] feat(weather): tactical GPX 1.1, KML 2.2, and GeoJSON mission waypoint export adhering to Level-4 sovereign stack standards
+[2026-07-09 17:14:57 +02:00] fix(router): ensure route map line contrasts sharply against both dark and light basemaps ensuring idempotent state updates
