@@ -1,1 +1,1 @@
-[2026-07-22 10:37:12 +02:00] feat(reefer): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units with sub-millisecond execution latency
+[2026-07-22 12:06:53 +02:00] fix(convoy): patch sandstorm speed limiter deactivation after corridor exit with strict TypeScript type-checking
