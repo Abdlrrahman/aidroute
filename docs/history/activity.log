@@ -1,1 +1,1 @@
-[2026-07-22 13:36:21 +02:00] feat(dijkstra): Ghibli sandstorm speed-cap and visibility degradation injection model with error boundary safeguards
+[2026-07-22 15:05:36 +02:00] fix(gpx-kml): resolve checkpoint clearance time accumulation across multi-vehicle convoys to ensure deterministic execution
