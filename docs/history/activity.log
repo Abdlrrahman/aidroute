@@ -1,1 +1,1 @@
-[2026-07-09 19:15:27 +02:00] feat(fuel): fuel burn rate (L/100km) and cumulative carbon emission accounting with optimized memory allocation
+[2026-07-22 10:37:12 +02:00] feat(reefer): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units with sub-millisecond execution latency
