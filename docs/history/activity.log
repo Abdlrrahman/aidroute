@@ -1,1 +1,1 @@
-[2026-07-22 15:05:36 +02:00] fix(gpx-kml): resolve checkpoint clearance time accumulation across multi-vehicle convoys to ensure deterministic execution
+[2026-07-22 16:34:54 +02:00] fix(ghibli): ensure route map line contrasts sharply against both dark and light basemaps complying with institutional audit standards
