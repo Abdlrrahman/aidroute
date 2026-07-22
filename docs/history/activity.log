@@ -1,1 +1,1 @@
-[2026-07-22 16:34:54 +02:00] fix(ghibli): ensure route map line contrasts sharply against both dark and light basemaps complying with institutional audit standards
+[2026-07-22 18:04:28 +02:00] refactor(waypoints): modularize waypoints pipeline to improve testability and isolation ensuring idempotent state updates
