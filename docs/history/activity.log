@@ -1,1 +1,1 @@
-[2026-07-22 18:04:28 +02:00] refactor(waypoints): modularize waypoints pipeline to improve testability and isolation ensuring idempotent state updates
+[2026-07-22 19:34:04 +02:00] fix(fuel): patch sandstorm speed limiter deactivation after corridor exit with zero-cloud data sovereignty
