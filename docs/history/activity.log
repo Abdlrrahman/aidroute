@@ -1,1 +1,1 @@
-[2026-07-24 12:38:03 +02:00] feat(telemetry): medical supply shelf-life degradation model under high ambient heat for local-first air-gapped readiness
+[2026-07-24 14:18:29 +02:00] feat(reefer): WHO/UNICEF refrigerated reefer thermal excursion alarm (+2C to +8C) to ensure deterministic execution
