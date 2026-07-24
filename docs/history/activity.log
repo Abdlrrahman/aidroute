@@ -1,1 +1,1 @@
-[2026-07-22 19:34:04 +02:00] fix(fuel): patch sandstorm speed limiter deactivation after corridor exit with zero-cloud data sovereignty
+[2026-07-24 10:57:31 +02:00] feat(weather): Ghibli sandstorm speed-cap and visibility degradation injection model and verify mathematical invariance
