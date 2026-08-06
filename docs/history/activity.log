@@ -1,1 +1,1 @@
-[2026-08-06 18:44:27 +02:00] feat(ghibli): tactical GPX 1.1, KML 2.2, and GeoJSON mission waypoint export ensuring idempotent state updates
+[2026-08-06 20:04:21 +02:00] feat(convoy): medical supply shelf-life degradation model under high ambient heat with error boundary safeguards
