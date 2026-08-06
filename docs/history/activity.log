@@ -1,1 +1,1 @@
-[2026-08-06 17:22:53 +02:00] perf(ghibli): implement Fibonacci min-heap for 10x faster corridor graph solving with graceful offline fallback
+[2026-08-06 18:44:27 +02:00] feat(ghibli): tactical GPX 1.1, KML 2.2, and GeoJSON mission waypoint export ensuring idempotent state updates
