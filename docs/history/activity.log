@@ -1,1 +1,1 @@
-[2026-08-06 10:39:45 +02:00] test(ghibli): verify deterministic execution boundary for ghibli to ensure deterministic execution
+[2026-08-06 12:00:22 +02:00] fix(perf): resolve waypoint coordinate inversion in GeoJSON polygon export complying with institutional audit standards
