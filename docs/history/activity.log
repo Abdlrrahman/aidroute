@@ -1,1 +1,1 @@
-[2026-08-06 13:20:53 +02:00] fix(router): patch reefer battery level drain calculation during extended engine idling adhering to Level-4 sovereign stack standards
+[2026-08-06 14:41:44 +02:00] fix(weather): ensure route map line contrasts sharply against both dark and light basemaps with strict TypeScript type-checking
