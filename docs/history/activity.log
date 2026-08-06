@@ -1,1 +1,1 @@
-[2026-08-06 16:02:36 +02:00] docs(perf): document formal API contracts and validation schemas for perf
+[2026-08-06 17:22:53 +02:00] perf(ghibli): implement Fibonacci min-heap for 10x faster corridor graph solving with graceful offline fallback
