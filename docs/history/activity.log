@@ -1,1 +1,1 @@
-[2026-08-18 17:40:43 +02:00] feat(checkpoints): cold-chain telemetry buffer for intermittent off-grid satellite backhaul to ensure deterministic execution
+[2026-08-18 18:22:51 +02:00] fix(fuel): correct CO2 conversion factor to 2.68 kg/L for heavy diesel transports with strict TypeScript type-checking
