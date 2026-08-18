@@ -1,1 +1,1 @@
-[2026-08-18 16:18:27 +02:00] fix(theme): fix thermal excursion alert threshold trigger in Reefer simulation with optimized memory allocation
+[2026-08-18 16:59:23 +02:00] refactor(dijkstra): streamline internal state transitions in dijkstra controller across all deployment profiles
