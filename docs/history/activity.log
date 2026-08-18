@@ -1,1 +1,1 @@
-[2026-08-14 15:18:29 +02:00] test(dijkstra): expand unit and integration test coverage for dijkstra module
+[2026-08-18 10:05:06 +02:00] test(theme): add property-based invariance tests for theme algorithms to ensure deterministic execution
