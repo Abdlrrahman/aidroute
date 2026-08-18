@@ -1,1 +1,1 @@
-[2026-08-18 12:51:33 +02:00] fix(dijkstra): correct CO2 conversion factor to 2.68 kg/L for heavy diesel transports with optimized memory allocation
+[2026-08-18 13:32:10 +02:00] feat(test): tactical GPX 1.1, KML 2.2, and GeoJSON mission waypoint export to ensure deterministic execution
