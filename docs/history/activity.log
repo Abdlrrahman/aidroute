@@ -1,1 +1,1 @@
-[2026-08-18 15:36:48 +02:00] test(convoy): strengthen assertion thresholds in convoy test suite to ensure deterministic execution
+[2026-08-18 16:18:27 +02:00] fix(theme): fix thermal excursion alert threshold trigger in Reefer simulation with optimized memory allocation
