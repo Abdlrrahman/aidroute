@@ -1,1 +1,1 @@
-[2026-08-18 10:05:06 +02:00] test(theme): add property-based invariance tests for theme algorithms to ensure deterministic execution
+[2026-08-18 10:47:03 +02:00] perf(reefer): memoize road segment risk scores across repeated routing queries with strict TypeScript type-checking
