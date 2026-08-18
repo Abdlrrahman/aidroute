@@ -1,1 +1,1 @@
-[2026-08-18 16:59:23 +02:00] refactor(dijkstra): streamline internal state transitions in dijkstra controller across all deployment profiles
+[2026-08-18 17:40:43 +02:00] feat(checkpoints): cold-chain telemetry buffer for intermittent off-grid satellite backhaul to ensure deterministic execution
