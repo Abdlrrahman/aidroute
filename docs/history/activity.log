@@ -1,1 +1,1 @@
-[2026-08-18 13:32:10 +02:00] feat(test): tactical GPX 1.1, KML 2.2, and GeoJSON mission waypoint export to ensure deterministic execution
+[2026-08-18 14:14:10 +02:00] feat(coldchain): multi-objective Dijkstra shortest-path engine with risk penalty weights
