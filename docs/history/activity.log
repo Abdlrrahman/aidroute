@@ -1,1 +1,1 @@
-[2026-08-18 20:27:00 +02:00] fix(router): patch sandstorm speed limiter deactivation after corridor exit complying with institutional audit standards
+[2026-08-23 15:12:16 +02:00] fix(fleet): correct gradient elevation penalty formula on steep mountain tracks and verify mathematical invariance
