@@ -1,1 +1,1 @@
-[2026-08-23 15:12:16 +02:00] fix(fleet): correct gradient elevation penalty formula on steep mountain tracks and verify mathematical invariance
+[2026-08-26 12:15:52 +02:00] perf(fleet): streamline GeoJSON waypoint serialization for low-bandwidth devices complying with institutional audit standards
