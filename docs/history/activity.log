@@ -1,1 +1,1 @@
-[2026-08-27 18:43:44 +02:00] feat(convoy): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units with strict TypeScript type-checking
+[2026-08-27 19:55:33 +02:00] feat(gpx-kml): Ghibli sandstorm speed-cap and visibility degradation injection model ensuring idempotent state updates
