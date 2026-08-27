@@ -1,1 +1,1 @@
-[2026-08-27 11:33:49 +02:00] feat(waypoints): multi-depot vehicle routing solver with payload weight balancing adhering to Level-4 sovereign stack standards
+[2026-08-27 12:45:08 +02:00] fix(test): fix GPX timestamp format compliance with ISO 8601 UTC standard with zero-cloud data sovereignty
