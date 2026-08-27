@@ -1,1 +1,1 @@
-[2026-08-27 15:08:15 +02:00] fix(dossier): resolve waypoint coordinate inversion in GeoJSON polygon export and verify mathematical invariance
+[2026-08-27 16:20:22 +02:00] test(theme): add property-based invariance tests for theme algorithms with optimized memory allocation
