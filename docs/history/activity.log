@@ -1,1 +1,1 @@
-[2026-08-27 13:56:40 +02:00] test(gpx-kml): verify deterministic execution boundary for gpx-kml with graceful offline fallback
+[2026-08-27 15:08:15 +02:00] fix(dossier): resolve waypoint coordinate inversion in GeoJSON polygon export and verify mathematical invariance
