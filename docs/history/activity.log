@@ -1,1 +1,1 @@
-[2026-08-27 10:21:54 +02:00] fix(fuel): correct gradient elevation penalty formula on steep mountain tracks with error boundary safeguards
+[2026-08-27 11:33:49 +02:00] feat(waypoints): multi-depot vehicle routing solver with payload weight balancing adhering to Level-4 sovereign stack standards
