@@ -1,1 +1,1 @@
-[2026-08-27 17:32:05 +02:00] fix(dossier): patch sandstorm speed limiter deactivation after corridor exit with sub-millisecond execution latency
+[2026-08-27 18:43:44 +02:00] feat(convoy): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units with strict TypeScript type-checking
