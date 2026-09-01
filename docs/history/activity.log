@@ -1,1 +1,1 @@
-[2026-09-01 11:57:39 +02:00] perf(waypoints): precompute geographic Haversine distances between major Libyan waypoints across all deployment profiles
+[2026-09-01 12:35:31 +02:00] feat(gpx-kml): elevation profile and mountain pass gradient fuel impact calculation ensuring idempotent state updates
