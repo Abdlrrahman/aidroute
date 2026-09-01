@@ -1,1 +1,1 @@
-[2026-09-01 10:03:37 +02:00] feat(router): elevation profile and mountain pass gradient fuel impact calculation with sub-millisecond execution latency
+[2026-09-01 10:41:53 +02:00] perf(test): implement Fibonacci min-heap for 10x faster corridor graph solving and add integration assertions
