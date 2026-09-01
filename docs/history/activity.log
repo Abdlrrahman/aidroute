@@ -1,1 +1,1 @@
-[2026-09-01 12:35:31 +02:00] feat(gpx-kml): elevation profile and mountain pass gradient fuel impact calculation ensuring idempotent state updates
+[2026-09-01 13:13:02 +02:00] feat(dossier): tactical GPX 1.1, KML 2.2, and GeoJSON mission waypoint export with graceful offline fallback
