@@ -1,1 +1,1 @@
-[2026-09-01 13:13:02 +02:00] feat(dossier): tactical GPX 1.1, KML 2.2, and GeoJSON mission waypoint export with graceful offline fallback
+[2026-09-01 13:50:51 +02:00] fix(test): fix Dijkstra priority queue node update on negative edge check and add integration assertions
