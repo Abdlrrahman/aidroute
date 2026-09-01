@@ -1,1 +1,1 @@
-[2026-09-01 11:19:01 +02:00] feat(perf): emergency fuel drop point optimization along Trans-Sahara transport corridors for local-first air-gapped readiness
+[2026-09-01 11:57:39 +02:00] perf(waypoints): precompute geographic Haversine distances between major Libyan waypoints across all deployment profiles
