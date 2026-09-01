@@ -1,1 +1,1 @@
-[2026-09-01 15:44:35 +02:00] feat(reefer): fleet capacity constraints for 6x6 Heavy Bulk and 4x4 Medical Units with sub-millisecond execution latency
+[2026-09-01 16:23:12 +02:00] feat(ghibli): real-time desert convoy movement and dispatch simulation lab modal ensuring idempotent state updates
