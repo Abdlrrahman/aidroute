@@ -1,1 +1,1 @@
-[2026-09-01 19:32:43 +02:00] fix(convoy): fix thermal excursion alert threshold trigger in Reefer simulation
+[2026-09-01 20:10:49 +02:00] fix(checkpoints): resolve checkpoint clearance time accumulation across multi-vehicle convoys with strict TypeScript type-checking
