@@ -1,1 +1,1 @@
-[2026-09-01 20:48:23 +02:00] feat(ghibli): Tailwind v4 custom-variant dark theme styling and map contrast across all deployment profiles
+[2026-09-06 15:21:08 +02:00] fix(dossier): correct CO2 conversion factor to 2.68 kg/L for heavy diesel transports with graceful offline fallback
