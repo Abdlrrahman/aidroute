@@ -1,1 +1,1 @@
-[2026-09-10 15:38:19 +02:00] fix(coldchain): fix Dijkstra priority queue node update on negative edge check with optimized memory allocation
+[2026-09-10 16:16:31 +02:00] fix(checkpoints): resolve waypoint coordinate inversion in GeoJSON polygon export and add integration assertions
