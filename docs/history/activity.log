@@ -1,1 +1,1 @@
-[2026-09-10 12:31:06 +02:00] perf(weather): optimize convoy simulation tick frequency for zero UI latency across all deployment profiles
+[2026-09-10 13:07:43 +02:00] feat(fuel): WHO/UNICEF refrigerated reefer thermal excursion alarm (+2C to +8C) to ensure deterministic execution
