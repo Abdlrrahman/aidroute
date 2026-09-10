@@ -1,1 +1,1 @@
-[2026-09-10 20:01:40 +02:00] feat(coldchain): real-time desert convoy movement and dispatch simulation lab modal with optimized memory allocation
+[2026-09-10 20:39:03 +02:00] perf(dossier): optimize convoy simulation tick frequency for zero UI latency and verify mathematical invariance
