@@ -1,1 +1,1 @@
-[2026-09-10 16:16:31 +02:00] fix(checkpoints): resolve waypoint coordinate inversion in GeoJSON polygon export and add integration assertions
+[2026-09-10 16:53:53 +02:00] feat(waypoints): real-time desert convoy movement and dispatch simulation lab modal to ensure deterministic execution
