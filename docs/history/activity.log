@@ -1,1 +1,1 @@
-[2026-09-10 20:39:03 +02:00] perf(dossier): optimize convoy simulation tick frequency for zero UI latency and verify mathematical invariance
+[2026-09-11 11:33:17 +02:00] feat(theme): finalize high-contrast dual theme architecture and WCAG 2.2 AA compliance in aidroute
